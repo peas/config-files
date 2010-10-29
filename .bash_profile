@@ -1,4 +1,4 @@
-PATH=${PATH}:/Applications/gradle/bin:/Applications/Racket/bin:~/.rvm/bin:/usr/local/mysql-5.1.47-osx10.6-x86_64/bin
+PATH=${PATH}:/Applications/gradle/bin:/Applications/Racket/bin:~/.rvm/bin:/usr/local/mysql/bin:/Applications/clojure/bin:
 export GRADLE_HOME=/Applications/gradle
 export JAVA_HOME=/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/
 
