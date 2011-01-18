@@ -1,4 +1,4 @@
-PATH=${PATH}:/Applications/gradle/bin:/Applications/Racket/bin:~/.rvm/bin:/usr/local/mysql/bin:/Applications/clojure/bin:
+PATH=${PATH}:/Applications/gradle/bin:/Applications/Racket/bin:~/.rvm/bin:/usr/local/mysql/bin:/Applications/clojure/bin:/usr/local/texlive/2010/bin/universal-darwin
 export GRADLE_HOME=/Applications/gradle
 export JAVA_HOME=/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/
 
